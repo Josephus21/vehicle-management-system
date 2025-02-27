@@ -1,0 +1,6 @@
+.parent-column-header {
+    border-right: 2px solid #000 !important;
+}
+.parent-column-header-left {
+    border-left: 2px solid #000 !important;
+}
